@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://pytorch.org/
+HostUrl=https://download.pytorch.org/models/resnet18-f37072fd.pth
